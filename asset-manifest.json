@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/ecommerce/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ecommerce/static/js/main.ebce4a3a.chunk.js",
-    "main.js.map": "/ecommerce/static/js/main.ebce4a3a.chunk.js.map",
-    "runtime-main.js": "/ecommerce/static/js/runtime-main.27b8104a.js",
-    "runtime-main.js.map": "/ecommerce/static/js/runtime-main.27b8104a.js.map",
-    "static/js/2.b19418d4.chunk.js": "/ecommerce/static/js/2.b19418d4.chunk.js",
-    "static/js/2.b19418d4.chunk.js.map": "/ecommerce/static/js/2.b19418d4.chunk.js.map",
-    "static/js/3.692c4356.chunk.js": "/ecommerce/static/js/3.692c4356.chunk.js",
-    "static/js/3.692c4356.chunk.js.map": "/ecommerce/static/js/3.692c4356.chunk.js.map",
+    "main.css": "/ecommerce/static/css/main.7e34a0c7.chunk.css",
+    "main.js": "/ecommerce/static/js/main.8a7c5854.chunk.js",
+    "main.js.map": "/ecommerce/static/js/main.8a7c5854.chunk.js.map",
+    "runtime-main.js": "/ecommerce/static/js/runtime-main.a8dd26d0.js",
+    "runtime-main.js.map": "/ecommerce/static/js/runtime-main.a8dd26d0.js.map",
+    "static/js/2.52748a57.chunk.js": "/ecommerce/static/js/2.52748a57.chunk.js",
+    "static/js/2.52748a57.chunk.js.map": "/ecommerce/static/js/2.52748a57.chunk.js.map",
     "index.html": "/ecommerce/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/ecommerce/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b19418d4.chunk.js.LICENSE.txt": "/ecommerce/static/js/2.b19418d4.chunk.js.LICENSE.txt"
+    "static/css/main.7e34a0c7.chunk.css.map": "/ecommerce/static/css/main.7e34a0c7.chunk.css.map",
+    "static/js/2.52748a57.chunk.js.LICENSE.txt": "/ecommerce/static/js/2.52748a57.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.27b8104a.js",
-    "static/js/2.b19418d4.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ebce4a3a.chunk.js"
+    "static/js/runtime-main.a8dd26d0.js",
+    "static/js/2.52748a57.chunk.js",
+    "static/css/main.7e34a0c7.chunk.css",
+    "static/js/main.8a7c5854.chunk.js"
   ]
 }
